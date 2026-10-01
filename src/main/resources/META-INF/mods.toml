@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="orugitas"
+version="1.0.0"
+displayName="Orugitas"
+description="Una orugita adorable e inmortal: domesticala con semillas, dale de comer, llevala en el hombro y dile que te siga o se quede quieta."
+
+[[dependencies.orugitas]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.orugitas]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

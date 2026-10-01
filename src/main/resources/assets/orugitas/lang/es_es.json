@@ -1,0 +1,8 @@
+{
+  "entity.orugitas.oruga": "Orugita",
+  "item.orugitas.oruga_spawn_egg": "Huevo de aparición de Orugita",
+  "msg.orugitas.follow": "¡La orugita te seguirá!",
+  "msg.orugitas.stay": "La orugita se quedará quieta.",
+  "msg.orugitas.shoulder": "¡Orugita en tu hombro! Agáchate con las manos vacías para bajarla.",
+  "msg.orugitas.shoulder_full": "Ya llevas dos orugitas en los hombros."
+}

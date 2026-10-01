@@ -1,0 +1,8 @@
+{
+  "entity.orugitas.oruga": "Little Caterpillar",
+  "item.orugitas.oruga_spawn_egg": "Little Caterpillar Spawn Egg",
+  "msg.orugitas.follow": "The caterpillar will follow you!",
+  "msg.orugitas.stay": "The caterpillar will stay put.",
+  "msg.orugitas.shoulder": "Caterpillar on your shoulder! Crouch with empty hands to put it down.",
+  "msg.orugitas.shoulder_full": "You already carry two caterpillars."
+}

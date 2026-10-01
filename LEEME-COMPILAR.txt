@@ -1,0 +1,20 @@
+ORUGITAS - mod para Minecraft Forge 1.20.1 (47.x)
+
+COMO OBTENER EL .JAR (sin instalar nada) - con GitHub:
+ 1. Crea un repositorio nuevo en GitHub (vacio).
+ 2. Sube el CONTENIDO de esta carpeta (src, build.gradle, settings.gradle, gradle.properties, .gitignore).
+ 3. Crea a mano el archivo  .github/workflows/build.yml  (Add file > Create new file) con el texto del archivo
+    build.yml que viene en esta carpeta, o sube la carpeta .github tal cual.
+ 4. Pestana Actions: espera al tick verde y descarga el artefacto "orugitas-jar".
+ 5. Dentro del zip descargado esta  orugitas-1.20.1-1.0.0.jar  -> copialo a la carpeta mods.
+
+COMO SE JUEGA
+ - Crea un mundo en Creativo: huevo de aparicion "Orugita" en la pestana de huevos.
+ - Salvajes: aparecen en bosques, praderas, llanuras, jungla, cerezos...
+ - Domar: clic derecho con semillas (trigo, melon, calabaza, remolacha, antorcha, pitcher). Hay que insistir.
+ - Domada = INMORTAL. Nada puede matarla (ni lava, ni vacio, ni /kill).
+ - Comida: semillas, bayas, manzana, zanahoria, remolacha, rodaja de sandia -> la curan.
+ - Basura: carne podrida, palos, papel, hilo, huesos, plumas, etc. -> se la come y a veces deja abono.
+ - Mano vacia + clic derecho: alterna "sigueme" / "quieta".
+ - Agachado + mano vacia + clic derecho: se sube a tu hombro (hasta 2).
+ - Para bajarla: agachate con las dos manos vacias durante 1 segundo.
